@@ -8,8 +8,10 @@ Google Translate oluşturlan yeni veriseti kullanılarak oluştulmuş duygu anal
 (Emotional Analysis Model created using the new data created by Google Translate): 
 https://drive.google.com/drive/folders/1547-eEnQTyH7uH09D_3FBaM88RvT0hts?usp=drive_link
 
-Gereksinimleri indirmek için kullanılacak komut: pip install -r requirements.txt
-Uygulamayı başlatmak için kullanılacak komut: streamlit run app.py
+Gereksinimleri indirmek için kullanılacak komut 
+(The command to be used to download requirements): pip install -r requirements.txt
+Uygulamayı başlatmak için kullanılacak komut
+(The command to be used to run the application): streamlit run app.py
 
 Karşılaşmanız beklenen ekran, dilediğiniz metni deneyebilirsiniz
 (The screen that is expected to encounter, you can try the text you want): 
