@@ -1,0 +1,9 @@
+pandas
+numpy
+torch
+scikit-learn
+transformers
+datasets
+tqdm
+googletrans==4.0.0-rc1  # stable sürüm, önerilir
+streamlit
